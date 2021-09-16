@@ -1,0 +1,23 @@
+#header-img {
+    width: 50px;
+}
+
+body {
+    font-family: cursive;
+}
+
+.nav-link {
+    padding: 20px;
+    margin: 10px;
+}
+
+.flex-container {
+    display: inline-flex;
+    justify-content: center;
+}
+
+@media screen and (min-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}
